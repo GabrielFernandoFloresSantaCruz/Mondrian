@@ -1,0 +1,128 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(15, 1fr);
+    grid-template-rows: repeat(7, 1fr);
+    gap: 8px;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+.grid-item {
+    border: 2px solid black;
+}
+
+.item1 { background-color: red; }
+.item2 { background-color: white; }
+.item3 { background-color: yellow; }
+.item4 { background-color: yellow; }
+.item5 { background-color: yellow; }
+.item6 { background-color: white; }
+.item7 { background-color: yellow; }
+.item8 { background-color: red; }
+.item9 { background-color: yellow; }
+.item10 { background-color: white; }
+.item11 { background-color: yellow; }
+.item12 { background-color: yellow; }
+.item13 { background-color: yellow; }
+.item14 { background-color: white; }
+.item15 { background-color: red; }
+.item16 { background-color: white; }
+.item17 { background-color: white; }
+.item18 { background-color: yellow; }
+.item19 { background-color: white; }
+.item20 { background-color: white; }
+.item21 { background-color: white; }
+.item22 { background-color: white; }
+.item23 { background-color: red; }
+.item24 { background-color: white; }
+.item25 { background-color: white; }
+.item26 { background-color: red; }
+.item27 { background-color: white; }
+.item28 { background-color: yellow; }
+.item29 { background-color: red; }
+.item30 { background-color: yellow; }
+.item31 { background-color: white; }
+.item32 { background-color: yellow; }
+.item33 { background-color: blue; }
+.item34 { background-color: white; }
+.item35 { background-color: red; }
+.item36 { background-color: yellow; }
+.item37 { background-color: yellow; }
+.item38 { background-color: white; }
+.item39 { background-color: yellow; }
+.item40 { background-color: red; }
+.item41 { background-color: blue; }
+.item42 { background-color: red; }
+.item43 { background-color: white; }
+.item44 { background-color: yellow; }
+.item45 { background-color: white; }
+.item46 { background-color: white; }
+.item47 { background-color: blue; }
+.item48 { background-color: white; }
+.item49 { background-color: white; }
+.item50 { background-color: red; }
+.item51 { background-color: yellow; }
+.item52 { background-color: white; }
+.item53 { background-color: red; }
+.item54 { background-color: white; }
+.item55 { background-color: blue; }
+.item56 { background-color: white; }
+.item57 { background-color: red; }
+.item58 { background-color: white; }
+.item59 { background-color: red; }
+.item60 { background-color: white; }
+.item61 { background-color: blue; }
+.item62 { background-color: red; }
+.item63 { background-color: white; }
+.item64 { background-color: yellow; }
+.item65 { background-color: blue; }
+.item66 { background-color: red; }
+.item67 { background-color: blue; }
+.item68 { background-color: yellow; }
+.item69 { background-color: blue; }
+.item70 { background-color: yellow; }
+.item71 { background-color: white; }
+.item72 { background-color: white; }
+.item73 { background-color: blue; }
+.item74 { background-color: white; }
+.item75 { background-color: blue; }
+.item76 { background-color: red; }
+.item77 { background-color: white; }
+.item78 { background-color: red; }
+.item79 { background-color: white; }
+.item80 { background-color: yellow; }
+.item81 { background-color: blue; }
+.item82 { background-color: white; }
+.item83 { background-color: red; }
+.item84 { background-color: white; }
+.item85 { background-color: yellow; }
+.item86 { background-color: yellow; }
+.item87 { background-color: white; }
+.item88 { background-color: yellow; }
+.item89 { background-color: blue; }
+.item90 { background-color: red; }
+.item91 { background-color: yellow; }
+.item92 { background-color: white; }
+.item93 { background-color: yellow; }
+.item94 { background-color: white; }
+.item95 { background-color: white; }
+.item96 { background-color: yellow; }
+.item97 { background-color: red; }
+.item98 { background-color: yellow; }
+.item99 { background-color: white; }
+.item100 { background-color: white; }
+.item101 { background-color: white; }
+.item102 { background-color: yellow; }
+.item103 { background-color: yellow; }
+.item104 { background-color: white; }
+.item105 { background-color: white; }
